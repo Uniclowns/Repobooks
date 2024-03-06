@@ -6,6 +6,6 @@
     <title>Profil</title>
 </head>
 <body>
-  <h1>Welcome Profil</h1>  
+  <h1>Halo Profil</h1>  
 </body>
 </html>
